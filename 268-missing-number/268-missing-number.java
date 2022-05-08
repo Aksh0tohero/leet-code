@@ -18,7 +18,7 @@ class Solution {
         }
 
         // case 2
-        return arr.length;
+        return arr.length - 1 + 1 ;
     }
 
     static void swap(int[] arr, int first, int second) {
